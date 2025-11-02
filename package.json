@@ -1,0 +1,10 @@
+{
+  "name": "marble-fall",
+  "version": "1.0.0",
+  "description": "Marble Fall prediction game",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx http-server -p 3000"
+  }
+}
+
